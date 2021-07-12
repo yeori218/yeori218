@@ -23,7 +23,7 @@ I always study for design for users, also interested in **Web developing**.
 
 #### Current Works
 - 🚢 I'm currently working on **Designing a ship design program**.
-- 📡 also working on **Developing a noise measurement program**.
+- 📡 also working on **Designing & Developing a noise measurement program**.
 - 📚 Learning **User eXperience design system**.
 - 🎓 Learning **Computer Science**.
 
