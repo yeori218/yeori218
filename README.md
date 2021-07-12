@@ -1,6 +1,6 @@
 Hi There, I'm Yeori 👋
 ---
-I'm a **UI Designer & Front-end Developer** working at **Busan, Korea.** <br />
+I'm a **UI Designer** working at **Busan, Korea.** <br />
 I always study for design for users, also interested in **Web developing**.
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeori218&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
